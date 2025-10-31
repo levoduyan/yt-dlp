@@ -1,0 +1,4 @@
+.vscode/sftp.json
+.vscode/*
+templates_c
+.env
