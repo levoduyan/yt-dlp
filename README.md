@@ -39,9 +39,8 @@ Trang web **ytb.anlvd.id.vn** được phát triển để cung cấp công cụ
 ## 🧩 Cấu trúc thư mục
 ```
 config.php        # file cấu hình chung
-/public           # HTML, CSS, JS
+/public           # HTML, CSS, JS, IMG
 /phpjquery        # code PHP xử lý backend
-/assets           # hình ảnh, CSS, JS tĩnh
 ```
 
 ## 🤝 Đóng góp
